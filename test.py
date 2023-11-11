@@ -1,6 +1,7 @@
 import pytest
 import Examen2  # Asegúrate de importar la clase desde tu módulo
 
+
 # Prueba para el método ObtieneValencia
 def test_obtiene_valencia():
     mi_clase = Examen2.MiClase(None, None, None, None, None)
