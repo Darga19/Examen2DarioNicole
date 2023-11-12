@@ -49,3 +49,9 @@ def test_verifica_lista_canciones2():
     mi_clase = Examen2.MiClase(None, None, None, None, None)
     resultado = mi_clase.VerificaListaCanciones([1, 2, None, 3])
     assert not resultado
+
+# Prueba para el método Encuentra
+def test_encuentra():
+    mi_clase = Examen2.MiClase(None, None, None, None, None)
+    resultado = mi_clase.Encuentra([2, 7, 1, 4, 5], 1)
+    assert resultado
