@@ -3,10 +3,7 @@ name: Unit Tests
 on:
   pull_request:
     branches:
-      - main
       - Develop
-      - test
-      - feature/AddCocinero
 
 jobs:
   test:
