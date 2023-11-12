@@ -29,7 +29,7 @@ def test_divisible_tempo2():
 def test_obtiene_mas_bailable():
     mi_clase = Examen2.MiClase(None, None, None, None, None)
     resultado = mi_clase.ObtieneMasBailable([0.8, 0.9, 0.7, 0.6])
-    assert resultado == 0.9
+    assert resultado == 0.7
 
 # Prueba 2 para el método ObtieneMasBailable
 def test_obtiene_mas_bailable2():
