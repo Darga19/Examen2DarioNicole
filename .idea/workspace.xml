@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ddc929-a891-4554-a42f-f70e767d5a0f" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Examen2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,11 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Y2vxpMZ7m6vZBRQ9ZYVFfNGWFp" />
@@ -47,11 +54,12 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "test",
-    "last_opened_file_path": "C:/Users/darig/OneDrive/Documentos/TEC/Semestre 2/Principios de Modelado en Ingeniería/Examen 2/Examen2DarioNicole"
+    "git-widget-placeholder": "Metodo",
+    "last_opened_file_path": "C:/Users/darig/OneDrive/Documentos/TEC/Semestre 2/Principios de Modelado en Ingeniería/Examen 2/Examen2DarioNicole",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test.test_verifica_lista_canciones2">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Examen2DarioNicole" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -82,6 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.test_divisible_tempo2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -96,6 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.test_obtiene_mas_bailable2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -110,6 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.test_obtiene_valencia2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -124,20 +136,23 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.test_verifica_lista_canciones&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test.test_verifica_lista_canciones2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Examen2DarioNicole" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\nicva\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.test_verifica_lista_canciones2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -147,9 +162,9 @@
       <list>
         <item itemvalue="Python tests.Python tests for test.test_verifica_lista_canciones2" />
         <item itemvalue="Python tests.Python tests for test.test_verifica_lista_canciones" />
+        <item itemvalue="Python tests.Python tests for test.test_obtiene_valencia2" />
         <item itemvalue="Python tests.Python tests for test.test_obtiene_mas_bailable2" />
         <item itemvalue="Python tests.Python tests for test.test_divisible_tempo2" />
-        <item itemvalue="Python tests.Python tests for test.test_obtiene_valencia2" />
       </list>
     </recent_temporary>
   </component>
