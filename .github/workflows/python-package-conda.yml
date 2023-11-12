@@ -5,6 +5,8 @@ on:
     branches:
       - main
       - Develop
+      - test
+      - feature/AddCocinero
 
 jobs:
   test:
