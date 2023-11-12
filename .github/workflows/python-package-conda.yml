@@ -1,0 +1,30 @@
+name: Unit Tests
+
+on:
+  pull_request:
+    branches:
+      - main
+      - Develop
+      - test
+      - feature/AddCocinero
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.2 
+          
+      - name: Install dependencies
+        run: |
+          pip install pytest
+
+      - name: Run unit tests
+        run: |
+          pytest test.py
